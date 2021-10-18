@@ -35,6 +35,6 @@ Time taken for each algorithm is computed by the function timeit.default_timer()
 ![image](https://user-images.githubusercontent.com/70915043/137658063-9976cc28-841c-4044-ba47-8ffc11facbc5.png)
 ![image](https://user-images.githubusercontent.com/70915043/137658083-1262bfc5-d005-4bf3-93aa-fd9c6f3ca2a4.png)
 
-## This repository contains the jupyter file of Python code
+ **This repository contains the jupyter file of Python code and the instruction file to run the code.**
 
 
