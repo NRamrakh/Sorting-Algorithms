@@ -1,0 +1,13 @@
+Project1 Zipped folder contains-
+1)Code - Project1_code_NishaRamrakhyani
+2)Python notebook - 
+3)Report- Nisha_Ramrakhyani.pdf
+4)Report- Nisha_Ramrakhyani.docx
+5)Readme - Readme
+
+Instructions to run Python notebook
+1) If you have anaconda installed on your system, open jupyter notebook through anaconda command prompt.
+2) If you do not have anaconda installed, you can open Jupyter notebook through browser. Check this link-
+	https://jupyter.org/try and click on Try Classic Notebook
+3) You can also use other softwares like Visual studio, Spyder, Pycharm or Google Collab to run the notebook.
+4) You can run the notebook by clicking the Run button.
